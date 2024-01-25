@@ -1,6 +1,6 @@
 # Contributing
 
-Hi there! We're thrilled that you'd like to contribute to this project. Your ideas are essential for keeping making it better :)
+Hi there! We're thrilled that you'd like to contribute to this project. Your ideas are essential for keeping making it better :) okay if u say so!
 
 ## Contributor License Agreement
 
